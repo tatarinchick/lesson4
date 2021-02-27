@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 20px;
+    background-color: #00587a ;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    margin: 25px 0;
+}
+a{
+    text-decoration: none;
+    color: #f6c90e;
+    display: block;
+    margin: 20px 15px;
+}
+div{
+    width: 60%;
+    background-color:#e7e7de;
+    margin: auto;
+    padding: 20px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+ul{
+    padding: 20px;
+}
